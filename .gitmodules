@@ -2,3 +2,7 @@
 	path = projeto3-driveneats
 	url = https://github.com/cissavgonc/projeto3-driveneats.git
 	branch = main
+[submodule "Mailspring"]
+	path = Mailspring
+	url = https://github.com/matheusreich/Mailspring
+	branch = master
